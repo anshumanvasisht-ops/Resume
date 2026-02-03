@@ -6,19 +6,19 @@ export const getAsset = (path: string) => {
 
 const siteConfig = {
   personal: {
-    name: 'Put your name inside the quote',
-    title: 'Your Title | Your Role',
+    name: 'Anshuman S Vasisht',
+    title: 'Economics Undergraduate | Data Science Minor',
     image: getAsset('images/profile.png'), // Customize or replace with your profile image
     description:
-      'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
+      'I am a BSc Economics student with Data Science at CHRIST (Deemed to be University), Bannerghatta Road Campus.\n' +
       '\n' +
-      'Mention your institution or company, areas of interest, and what you teach or build.\n' +
+      'My academic interests lie in microeconomics, macroeconomics, inflation, and global economic issues.\n' +
       '\n' +
-      'Summarize your education or certifications briefly and highlight your practical work.\n' +
+      'I am developing technical skills in Python and Excel, with a growing interest in data analytics, finance, and stock markets.\n' +
       '\n' +
-      'Optional: Add notable books, workshops, or training you deliver.',
-    tagline: 'Add a concise personal tagline here.',
-    location: 'Your City, Country',
+      'Optional: Alongside academics, I am actively involved in college events through the Student Welfare Office logistics committee.'',
+    tagline: 'Exploring economics through data and analysis.',
+    location: 'Bangalore, India',
   },
 
   seo: {
