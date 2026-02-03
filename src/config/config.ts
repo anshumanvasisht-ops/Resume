@@ -22,7 +22,7 @@ const siteConfig = {
   },
 
   seo: {
-    title: 'Your Name – Your Title',
+    title: 'Anshuman S Vasisht – Your Title',
     description: "Portfolio website showcasing your education, research, projects, and experience.",
   },
 
