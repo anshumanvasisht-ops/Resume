@@ -16,7 +16,7 @@ const siteConfig = {
       '\n' +
       'I am developing technical skills in Python and Excel, with a growing interest in data analytics, finance, and stock markets.\n' +
       '\n' +
-      'Optional: Alongside academics, I am actively involved in college events through the Student Welfare Office logistics committee.'',
+      'Optional: Alongside academics, I am actively involved in college events through the Student Welfare Office logistics committee.',
     tagline: 'Exploring Economics through Data and Analysis.',
     location: 'Bangalore,India',
   },
